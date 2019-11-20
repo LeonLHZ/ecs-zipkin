@@ -5,7 +5,6 @@ spring:
       name: ecs-zipkin
       label: master
       proflie: prod
-  profiles:
-    active: prod
+
   main:
         allow-bean-definition-overriding: true
