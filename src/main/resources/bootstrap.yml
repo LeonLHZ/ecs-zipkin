@@ -1,7 +1,7 @@
 spring:
   cloud:
     config:
-      uri: http://94.191.119.1927:8888
+      uri: http://94.191.119.192:8888
       name: ecs-zipkin
       label: master
       proflie: prod
